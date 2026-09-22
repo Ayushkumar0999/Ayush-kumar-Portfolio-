@@ -146,11 +146,7 @@ export function Portfolio() {
               </li>
 
               <li className="nav-item ms-lg-3">
-                <a
-                  href="/Ayush_Kumar_Resume.pdf"
-                  className="btn resume-btn"
-                  download
-                >
+                <a href="/A_K Resume.pdf" className="btn resume-btn" download>
                   <i className="bi bi-download me-2"></i>
                   Resume
                 </a>
