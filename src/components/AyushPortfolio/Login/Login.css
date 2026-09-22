@@ -1,0 +1,5 @@
+.form-background{
+    background: url("public/city.jpg");
+    background-size: cover;
+    width: 400px;
+}
